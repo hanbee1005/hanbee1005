@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm hanbee 👋
 
 <!--
 **hanbee1005/hanbee1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Stay Hungry, Stay Foolish 🔥
+- I'm back-end engineer
+- JAVA & SpringFramework
