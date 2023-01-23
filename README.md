@@ -2,6 +2,7 @@
 - Email: sonhanbi1002@gmail.com
 - Blog: https://developerbee.tistory.com/
 - Page: https://hanbee1005.github.io/
+- Notion: https://www.notion.so/Hanbee-Son-c5ccd185f0a64829ac46a51f2f6643c5
 
 <!--
 **hanbee1005/hanbee1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
